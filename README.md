@@ -1,6 +1,6 @@
 # Програмування на рівні системи типів TypeScript
 
-> Programming on the type-level system in TypeScript
+> Type-level programming in TypeScript
 
 ## Examples
 
